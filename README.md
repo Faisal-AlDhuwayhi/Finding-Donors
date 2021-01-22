@@ -10,9 +10,9 @@ This project requires **Python 3.x** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html).
 
-We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
+It's recommended to install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 ### Code
 
@@ -20,7 +20,7 @@ Template code is provided in the `finding_donors.ipynb` notebook file. You will 
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `Finding-Donors/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook finding_donors.ipynb
